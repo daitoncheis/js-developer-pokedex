@@ -78,6 +78,10 @@
     background-color: #f9aec7;
 }
 
+img.backgroundCima {
+    border-style: groove;
+    border-radius: 7em;
+}
 .pokemon {
     display: flex;
     flex-direction: column;

@@ -88,6 +88,11 @@ img.backgroundBaixo {
     border-radius: 7em;
 
 }
+
+h1{
+    color: orange;
+    text-align: center;
+}
 .pokemon {
     display: flex;
     flex-direction: column;
